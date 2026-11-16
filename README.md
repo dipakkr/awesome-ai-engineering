@@ -83,6 +83,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - **AI Tool Directories and Resources**
     - [ToolJunction](https://www.tooljunction.io/) - Comprehensive directory of AI tools
     - [Awesome AI Tools](https://github.com/dipakkr/awesome-ai-tools) - Curated collection of AI tools and resources
+    - [European AI Tools](https://europeanaitools.com/) - Source-linked directory and comparison guides for European AI software.
 
 - **Popular AI Tools**
     - [ChatGPT](https://www.tooljunction.io/ai-tools/chatgpt) - Advanced AI chatbot for conversations and tasks
