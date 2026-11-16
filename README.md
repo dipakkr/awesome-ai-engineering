@@ -231,6 +231,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Google AI Studio (Gemini)](https://makersuite.google.com/)
     - [Anthropic Console (Claude)](https://claude.ai/)
     - [OpenRouter (Multi-LLM API Playground)](https://openrouter.ai/)
+    - [HiAPI](https://hiapi.ai/) - Pay-as-you-go multimodal API: one key for image, video, audio and text models, with OpenAI-compatible text endpoints and async task APIs for media
     - [LangChain + OpenAI Agent Playground](https://github.com/langchain-ai/langchain)
 
 
