@@ -78,7 +78,6 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 # AI Tools and Resources
 
-
 > A curated list of AI tools and platforms to enhance your productivity
 
 - [HumanPen](https://humanpen.net/) - Document-level AI editing & API (Humanize DOCX/PPTX/TXT, Condense DOCX word-budget, Citation Format Correction in 12 styles, Translate in 12 languages; 100 signup credits, commercial credit-based pricing).
