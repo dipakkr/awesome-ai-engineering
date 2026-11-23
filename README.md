@@ -289,6 +289,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - [ConsenSys Academy](https://consensys.net/academy/) - Blockchain education
 
 ## Development Tools & Frameworks
+- [fitv-mcp](https://github.com/hanshs474/fitv-mcp) - Open-source MCP server & LangChain integration for [Free Image to Video](https://freeimagetovideo.ai/) AI video generation with synchronized sound and no watermark.
 - [Hardhat](https://hardhat.org/) - Ethereum development environment
 - [Truffle](https://trufflesuite.com/) - Blockchain development framework
 - [Web3.js](https://web3js.readthedocs.io/) - Ethereum JavaScript library
