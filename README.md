@@ -231,6 +231,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Google AI Studio (Gemini)](https://makersuite.google.com/)
     - [Anthropic Console (Claude)](https://claude.ai/)
     - [OpenRouter (Multi-LLM API Playground)](https://openrouter.ai/)
+    - [TokenCalc AI (LLM Cost & Token Calculator + CLI)](https://tokencalcai.com) - Client-side token cost estimator, subscription breakeven checker, live status radar, and open price index
     - [LangChain + OpenAI Agent Playground](https://github.com/langchain-ai/langchain)
 
 
